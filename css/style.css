@@ -1,0 +1,15 @@
+.button-design{
+    width: 100%;
+}
+.fond{
+  background: linear-gradient(#ffe1e1 , #fab028);
+}
+.c-rouge{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    box-shadow: 1px 0px 10px #000000;
+}
+textarea{
+   height: 100%;
+}
